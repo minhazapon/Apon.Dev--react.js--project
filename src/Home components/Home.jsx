@@ -1,4 +1,5 @@
 import Banner from "./Banner";
+import Tech from "./Tech";
 
 
 
@@ -10,6 +11,7 @@ const Home = () => {
             <div>
 
                   <Banner></Banner>
+                  <Tech></Tech>
                
 
 
