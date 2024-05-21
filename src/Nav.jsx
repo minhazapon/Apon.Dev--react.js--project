@@ -6,10 +6,10 @@ const Nav = () => {
 
        const links = <>
        
-          <li className=" text-xl font-semibold "><NavLink to="/" >Home</NavLink></li>
-          <li className=" text-xl font-semibold "><NavLink to="/about" >About</NavLink></li>
-          <li className=" text-xl font-semibold "><NavLink to="/project" >Projects</NavLink></li>
-          <li className=" text-xl font-semibold "><NavLink to="/contact" >Contact</NavLink></li>
+          <li className=" text-xl  "><NavLink to="/" >Home</NavLink></li>
+          <li className=" text-xl  "><NavLink to="/about" >About</NavLink></li>
+          <li className=" text-xl  "><NavLink to="/project" >Projects</NavLink></li>
+          <li className=" text-xl  "><NavLink to="/contact" >Contact</NavLink></li>
     
        
        </>
