@@ -29,7 +29,12 @@ const Nav = () => {
                           {links}
                        </ul>
                      </div>
-                     <a className="text-2xl font-bold ml-5">Apon.Dev</a>
+                     
+                     <div className=" flex items-center gap-2 ">
+                     <img className=" h-[25px] " src="https://i.ibb.co/Twwhq9J/coding.png" alt="" />
+                     <a className="text-2xl font-bold ">Apon.Dev</a>
+                     </div>
+                     
                    </div>
                    <div className="navbar-center hidden lg:flex">
                      <ul className="menu menu-horizontal px-1">
