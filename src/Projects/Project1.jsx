@@ -10,7 +10,7 @@ const Project1 = () => {
 
                <div className=" flex-col md:flex-row lg:flex-row">
 
-                  <img className=" h-[300px] w-[600px] rounded-xl border-[1px] border-blue-800 " src="https://i.ibb.co/x6w64Pb/IMG-20240522-123220.png" alt="" />
+                  <img className=" h-[300px] w-[600px] rounded-xl border-[3px] border-b-slate-500  " src="https://i.ibb.co/x6w64Pb/IMG-20240522-123220.png" alt="" />
 
                </div>
 
@@ -20,13 +20,13 @@ const Project1 = () => {
                   <h1 className=" text-xl font-bold text-blue-700">Medicine Galaxy</h1>
 
                   <p className=" text-xl text-slate-500 mt-5">
-                  Medicine companies, also<br></br>
-                   known as pharmaceutical<br></br>
-                   companies, are organizations<br></br>
-                   involved in the research,<br></br>
-                    development, production, <br></br>
-                   and marketing of drugs and other<br></br>
-                    health-related products. <br></br>
+                  Web projects involve the creation,<br></br>
+                   development, and maintenance <br></br>
+                   of websites or web applications. <br></br>
+                   They encompass a range<br></br>
+                    of disciplines<br></br>
+                    including web design, <br></br>
+                    front-end development.<br></br>
 
                   </p>
 
@@ -38,7 +38,7 @@ const Project1 = () => {
                        <img className=" h-[30px]" src="https://i.ibb.co/1Kt0NDr/github-1.png" alt="" />
                     </h1>
 
-                    <a className="link link-success">
+                    <a href="https://medicine-galaxy-apon-portfolio.netlify.app/" className="link link-success">
 
                     <h1 className=" flex items-center gap-1 text-xl font-semibold">
                       Live
