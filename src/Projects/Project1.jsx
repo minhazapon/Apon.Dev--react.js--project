@@ -4,9 +4,9 @@
 
 const Project1 = () => {
     return (
-        <div className=" mb-10  ml-10 mr-10">
+        <div className=" mb-10  mt-20 ml-10 mr-10">
 
-            <div className=" ml-10 flex-col md:flex-row lg:flex-row flex justify-center items-center gap-10">
+            <div className="  flex-col md:flex-row lg:flex-row flex justify-center items-center gap-10">
 
                <div className=" flex-col md:flex-row lg:flex-row">
 

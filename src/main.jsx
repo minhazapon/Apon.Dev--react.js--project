@@ -9,6 +9,7 @@ import {
 import Root from './Root';
 import Home from './Home components/Home';
 import About from './about/About';
+import ProjectsMother from './Projects/ProjectsMother';
 
 
 
@@ -24,6 +25,10 @@ const router = createBrowserRouter([
       {
         path: "/about",
         element: <About></About> ,
+      },
+      {
+        path: "/project",
+        element: <ProjectsMother></ProjectsMother> ,
       },
     ],
   },
