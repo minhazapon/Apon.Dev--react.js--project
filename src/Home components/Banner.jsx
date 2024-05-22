@@ -31,13 +31,13 @@ const Banner = () => {
                   </div>
                   <div  className=" flex  items-center gap-10">
                       <div className=" flex items-center gap-1">
-                         <img  className=" h-[50px]"  src="https://i.ibb.co/cwPDjrN/html-5.png" alt="" />
-                         <img  className=" h-[50px]" src="https://i.ibb.co/G97fcbb/css-3.png" alt="" />
-                         <img  className=" h-[50px]" src="https://res.cloudinary.com/startup-grind/image/upload/c_fill,w_500,h_500,g_center/c_fill,dpr_2.0,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/events/Tailwind_CSS_Logo.svg_GkNDLAs.png" alt="" />
+                         <img  className=" animate__animated animate__flip animate__repeat-2 h-[50px]"  src="https://i.ibb.co/cwPDjrN/html-5.png" alt="" />
+                         <img  className=" animate__animated animate__flip animate__repeat-2 h-[50px]" src="https://i.ibb.co/G97fcbb/css-3.png" alt="" />
+                         <img  className=" animate__animated animate__flip animate__repeat-2 h-[50px]" src="https://res.cloudinary.com/startup-grind/image/upload/c_fill,w_500,h_500,g_center/c_fill,dpr_2.0,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/events/Tailwind_CSS_Logo.svg_GkNDLAs.png" alt="" />
                       </div>
                      <div className=" flex items-center gap-1">
-                       <img className=" h-[50px]" src="https://i.ibb.co/6X8dm8z/js.jpg" alt="" />
-                       <img className=" h-[50px]" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/React_Logo_SVG.svg/1200px-React_Logo_SVG.svg.png" alt="" />
+                       <img className=" animate__animated animate__flip animate__repeat-2 h-[50px]" src="https://i.ibb.co/6X8dm8z/js.jpg" alt="" />
+                       <img className=" animate__animated animate__flip animate__repeat-2 h-[50px]" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/React_Logo_SVG.svg/1200px-React_Logo_SVG.svg.png" alt="" />
       
                      </div>
                   </div>
