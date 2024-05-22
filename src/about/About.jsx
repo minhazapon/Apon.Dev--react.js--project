@@ -24,7 +24,7 @@ const About = () => {
                <p className=" text-3xl font-bold">Front-end Developer<br></br>
                 based in Dhaka, Bangladesh.</p>
 
-                <p className=" mt-5 text-slate-500 text-xl">Hey, my name is Minhazul Abedin Apon, <br></br> and I'm a Frontend Developer. My <br></br> passion is to create and develop a clean UI/UX for my users.</p>
+                <p className=" mt-5 text-slate-500 text-xl">Hey, my name is Minhazul Abedin Apon, <br></br> and I'm a Frontend Developer. My <br></br> passion is to create and develop a<br></br> clean UI/UX for my users.</p>
                 <p className=" mt-5 text-slate-500 text-xl">  My main stack currently is React.js in combination with <br></br> Tailwind CSS and JavaScript.</p>
 
 

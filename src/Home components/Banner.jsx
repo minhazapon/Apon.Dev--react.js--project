@@ -7,7 +7,7 @@ import 'animate.css';
 
 const Banner = () => {
     return (
-        <div className=" mb-10  mt-24 ml-10 mr-10">
+        <div className=" flex-col md:flex-row lg:flex-row mb-10  mt-24 ml-10 mr-10">
 
 
             <div className=" flex-col md:flex-row lg:flex-row flex justify-center  gap-24">
@@ -27,7 +27,7 @@ const Banner = () => {
 
                   <div className=" mt-5   mr-14  flex-col md:flex-row lg:flex-row flex justify-center items-center gap-10 ">
                   <div className="">
-                     <h1 className=" text-2xl font-semibold">Tech Stack |</h1>
+                     <h1 className="  text-2xl font-semibold">Tech Stack |</h1>
                   </div>
                   <div  className=" flex  items-center gap-10">
                       <div className=" flex items-center gap-1">
