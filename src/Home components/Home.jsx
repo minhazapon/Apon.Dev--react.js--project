@@ -18,10 +18,13 @@ const Home = () => {
 
                   <Banner></Banner>
                   <About></About>
+                  
                   <Projects></Projects>
-                  <Project1></Project1>
-                  <Project2></Project2>
                   <Project3></Project3>
+                  <Project2></Project2>
+                  <Project1></Project1>
+                  
+                  
                   <Contact></Contact>
                
                

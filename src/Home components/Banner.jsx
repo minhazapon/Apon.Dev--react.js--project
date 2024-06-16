@@ -3,6 +3,8 @@ import 'animate.css';
 
 
 
+import me from "../../image/me.jpg"
+
 
 
 const Banner = () => {
@@ -49,7 +51,9 @@ const Banner = () => {
                 
                 </div>
                 <div>
-                    <img className=" animate__animated animate__backInDown animate__repeat-2 h-[200px] w-[200px] rounded-full border-[5px] border-[#00D5FF]" src="https://scontent.fjsr17-1.fna.fbcdn.net/v/t39.30808-6/279336089_1981534982234380_2190436952041281487_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=5f2048&_nc_ohc=e_F8cZMqnCEQ7kNvgE9EdQf&_nc_ht=scontent.fjsr17-1.fna&oh=00_AYAZwfrc3d17QWkWHi3NQ4rCceue3yp1bDrn7VktnEioWA&oe=6652AB91" alt="" />
+                    <img className=" animate__animated animate__backInDown animate__repeat-2 h-[200px] w-[200px] rounded-full border-[5px] border-[#00D5FF]"
+                    
+                    src={me} alt="" />
                 </div>
             </div>
             

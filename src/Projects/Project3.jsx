@@ -9,16 +9,16 @@ const Project3 = () => {
 
 <div className="  flex-col md:flex-row lg:flex-row flex justify-center items-center gap-10">
 
-   <div className=" flex-col md:flex-row lg:flex-row">
+   <div className="  flex-col md:flex-row lg:flex-row">
 
-      <img className=" h-[300px] w-[600px] rounded-xl border-[3px] border-b-slate-500 " src="https://i.ibb.co/SVz8pdd/IMG-20240522-123137-2.png" alt="" />
+      <img className=" h-[300px] w-[600px] rounded-xl border-[3px] border-b-slate-500 " src="   https://i.ibb.co/Nr56JF4/Whats-App-Image-2024-06-15-at-21-55-05-968363a9.jpg  " alt="" />
 
    </div>
 
 
    <div className=" flex-col md:flex-row lg:flex-row">
       
-      <h1 className=" text-xl font-bold text-blue-700">Car Tree</h1>
+      <h1 className=" text-xl font-bold text-blue-700">Fitness Network</h1>
 
       <p className=" text-xl text-slate-500 mt-5">
                    Web projects involve the creation,<br></br>
@@ -36,10 +36,14 @@ const Project3 = () => {
     <div className="  flex items-center gap-5 mt-3">
         <h1 className=" flex items-center gap-1 text-xl font-semibold">
            Code
+           <a href=" https://github.com/minhazapon/Fitness-Network--react.js--project" >
            <img className=" h-[30px]" src="https://i.ibb.co/1Kt0NDr/github-1.png" alt="" />
+
+           </a>
+           
         </h1>
 
-        <a href="https://medicine-galaxy-apon-portfolio.netlify.app/" className="link link-success">
+        <a href="  https://fitness-network.netlify.app/   " className="link link-success">
 
         <h1 className=" flex items-center gap-1 text-xl font-semibold">
           Live
