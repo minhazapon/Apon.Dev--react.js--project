@@ -23,10 +23,10 @@ const Contact = () => {
 
 
                   <div className=" flex-col md:flex-row lg:flex-row flex items-center gap-5">
-                     <img  className=" h-[40px]" src="https://i.ibb.co/N791tc2/map-2.jpg" alt="" />
+                     <img  className=" h-[40px]" src="https://i.ibb.co/fQqxtLC/phone-1.png" alt="" />
                     <div>
-                       <h1 className=" text-xl font-semibold">Location</h1>
-                       <p className=" text-xl  font-semibold">Jhenaidah, Dhaka, Bangladesh</p>
+                       <h1 className=" text-xl font-semibold">Number:</h1>
+                       <p className=" text-xl  font-semibold">+880 1950374409</p>
                     </div>
                   </div>
 

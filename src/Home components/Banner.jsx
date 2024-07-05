@@ -14,7 +14,7 @@ const Banner = () => {
 
             <div className=" flex-col md:flex-row lg:flex-row flex justify-center  gap-24">
                 <div>
-                  <h1 className=" text-6xl font-bold">Front-End <span className=" text-[#00D5FF]">React</span><br></br> Developer
+                  <h1 className=" text-6xl font-bold">Front-End <span className=" text-[#61DBFB]  ">React</span><br></br> Developer
                   </h1>
                   <p className=" mt-5 text-xl text-slate-600 ">Hi, I'm Minhazul Abedin Apon. A passionate Front-end React <br></br> Developer based in Jhenaidah, Dhaka, Bangladesh. </p>
 
@@ -51,7 +51,7 @@ const Banner = () => {
                 
                 </div>
                 <div>
-                    <img className=" animate__animated animate__backInDown animate__repeat-2 h-[200px] w-[200px] rounded-full border-[5px] border-[#00D5FF]"
+                    <img className=" animate__animated animate__backInDown animate__repeat-2 h-[200px] w-[200px] rounded-full border-[5px] border-[#61DBFB] "
                     
                     src={me} alt="" />
                 </div>

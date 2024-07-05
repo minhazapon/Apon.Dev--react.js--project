@@ -11,7 +11,7 @@ const Footer = () => {
                         <footer className="footer p-10 bg-base-200 text-base-content">
               <aside>
                 <img className=" h-[50px]" src="https://i.ibb.co/Twwhq9J/coding.png" alt="" />
-                <p className=" text-xl">Full Name: Minahzul abedin Apon<br/>  <span className=" text-2xl font-bold">Front End <span className=" text-blue-500">React</span> Developer</span></p>
+                <p className=" text-xl">Full Name: Minahzul abedin Apon<br/>  <span className=" text-2xl font-bold">Front End <span className=" text-[#61DBFB] ">React</span> Developer</span></p>
               </aside> 
               <nav>
                 <h6 className="footer-title">Social</h6> 
