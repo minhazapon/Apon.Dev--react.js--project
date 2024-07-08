@@ -43,7 +43,7 @@ const Project3 = () => {
            
         </h1>
 
-        <a href="  https://fitness-network.netlify.app/   " className="link link-success">
+        <a href="  https://fitness-network-d5153.web.app/  " className="link link-success">
 
         <h1 className=" flex items-center gap-1 text-xl font-semibold">
           Live

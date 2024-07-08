@@ -43,7 +43,7 @@ const Project2 = () => {
           </a> 
         </h1>
 
-        <a href="  https://healthtalk-minhazapon-portfolio.netlify.app/  " className="link link-success">
+        <a href="  https://health-talk-29df6.web.app/  " className="link link-success">
 
         <h1 className=" flex items-center gap-1 text-xl font-semibold">
           Live

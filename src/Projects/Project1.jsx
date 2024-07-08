@@ -10,14 +10,14 @@ const Project1 = () => {
 
                <div className=" flex-col md:flex-row lg:flex-row">
 
-                  <img className=" h-[300px] w-[600px] rounded-xl border-[3px] border-b-slate-500  " src="https://i.ibb.co/x6w64Pb/IMG-20240522-123220.png" alt="" />
+                  <img className=" h-[300px] w-[600px] rounded-xl border-[3px] border-b-slate-500  " src="https://i.ibb.co/VBMjbqp/Whats-App-Image-2024-07-08-at-04-57-18-7a49a2b2.jpg" alt="" />
 
                </div>
 
 
                <div className=" flex-col md:flex-row lg:flex-row">
                   
-                  <h1 className=" text-xl font-bold text-blue-700">Medicine Galaxy</h1>
+                  <h1 className=" text-xl font-bold text-blue-700">Medi-Sea</h1>
 
                   <p className=" text-xl text-slate-500 mt-5">
                   Web projects involve the creation,<br></br>
@@ -33,12 +33,12 @@ const Project1 = () => {
                  <h1 className=" flex items-center gap-10 mt-5 text-xl font-bold text-blue-700">React.js    <span>tailwind Css</span></h1>
                  
                 <div className="  flex items-center gap-5 mt-3">
-                    <h1 className=" flex items-center gap-1 text-xl font-semibold">
+                    <a href="https://github.com/minhazapon/medi-Sea--react.js-project" ><h1 className=" flex items-center gap-1 text-xl font-semibold">
                        Code
                        <img className=" h-[30px]" src="https://i.ibb.co/1Kt0NDr/github-1.png" alt="" />
-                    </h1>
+                    </h1></a>
 
-                    <a href="https://medicine-galaxy-apon-portfolio.netlify.app/" className="link link-success">
+                    <a href="https://medi-sea.netlify.app/" className="link link-success">
 
                     <h1 className=" flex items-center gap-1 text-xl font-semibold">
                       Live
