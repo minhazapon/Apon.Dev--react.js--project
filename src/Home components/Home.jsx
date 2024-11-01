@@ -17,12 +17,12 @@ const Home = () => {
             <div>
 
                   <Banner></Banner>
-                  <About></About>
+              
                   
                   <Projects></Projects>
-                  <Project3></Project3>
-                  <Project2></Project2>
-                  <Project1></Project1>
+                  {/* <Project3></Project3> */}
+                  {/* <Project2></Project2>
+                  <Project1></Project1> */}
                   
                   
                   <Contact></Contact>

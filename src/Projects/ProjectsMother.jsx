@@ -12,9 +12,9 @@ const ProjectsMother = () => {
 
             <Projects></Projects>
 
-            <Project3></Project3>
-            <Project1></Project1>
-            <Project2></Project2>
+            {/* <Project3></Project3> */}
+            {/* <Project1></Project1>
+            <Project2></Project2> */}
             
             
         </div>

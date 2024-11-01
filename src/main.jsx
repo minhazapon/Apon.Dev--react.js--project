@@ -1,6 +1,7 @@
 import React from 'react'
 import ReactDOM from 'react-dom/client'
 import './index.css'
+import './vanila css file/Vanila.css'
 
 import {
   createBrowserRouter,
@@ -11,6 +12,8 @@ import Home from './Home components/Home';
 import About from './about/About';
 import ProjectsMother from './Projects/ProjectsMother';
 import Contact from './Contact/Contact';
+
+
 
 
 
@@ -35,6 +38,7 @@ const router = createBrowserRouter([
         path: "/contact",
         element: <Contact></Contact> ,
       },
+     
     ],
   },
 ]);

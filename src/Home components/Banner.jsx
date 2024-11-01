@@ -9,14 +9,14 @@ import me from "../../image/me.jpg"
 
 const Banner = () => {
     return (
-        <div className=" flex-col md:flex-row lg:flex-row mb-10  mt-24 ml-10 mr-10">
+        <div className=" flex-col md:flex-row lg:flex-row mb-10  mt-10 ml-10 mr-10 p-10 ">
 
 
             <div className=" flex-col md:flex-row lg:flex-row flex justify-center  gap-24">
                 <div>
-                  <h1 className=" text-6xl font-bold">Front-End <span className=" text-[#61DBFB]  ">React</span><br></br> Developer
+                  <h1 className=" the text-6xl font-bold">Front-End <span className=" text-[#61DBFB]  ">React</span><br></br> Developer
                   </h1>
-                  <p className=" mt-5 text-xl text-slate-600 ">Hi, I'm Minhazul Abedin Apon. A passionate Front-end React <br></br> Developer based in Jhenaidah, Dhaka, Bangladesh. </p>
+                  <p className=" the mt-5 text-xl text-slate-600 ">Hi, I'm Minhazul Abedin Apon. A passionate Front-end React <br></br> Developer based in Jhenaidah, Dhaka, Bangladesh. </p>
 
                   <div className=" flex items-center gap-3 mt-5">
                     <a href=" https://github.com/minhazapon" ><img className="  h-[30px] " src="https://i.ibb.co/1Kt0NDr/github-1.png" alt="" />
@@ -27,9 +27,9 @@ const Banner = () => {
 
 
 
-                  <div className=" mt-5   mr-14  flex-col md:flex-row lg:flex-row flex justify-center items-center gap-10 ">
+                  <div className=" mt-5    flex-col md:flex-row lg:flex-row flex justify-center items-center gap-10 ">
                   <div className="">
-                     <h1 className="  text-2xl font-semibold">Tech Stack |</h1>
+                     <h1 className="  text-2xl universe font-semibold">Tech Stack |</h1>
                   </div>
                   <div  className=" flex  items-center gap-10">
                       <div className=" flex items-center gap-1">
@@ -43,14 +43,12 @@ const Banner = () => {
       
                      </div>
                   </div>
-
-                  
                 </div>
 
 
                 
                 </div>
-                <div>
+                <div className=' flex justify-center'>
                     <img className=" animate__animated animate__backInDown animate__repeat-2 h-[200px] w-[200px] rounded-full border-[5px] border-[#61DBFB] "
                     
                     src={me} alt="" />

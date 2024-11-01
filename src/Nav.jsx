@@ -1,15 +1,16 @@
 import { NavLink } from "react-router-dom";
 
 
+
 const Nav = () => {
        
 
        const links = <>
        
-          <li className=" text-xl  "><NavLink to="/" >Home</NavLink></li>
-          <li className=" text-xl  "><NavLink to="/about" >About</NavLink></li>
-          <li className=" text-xl  "><NavLink to="/project" >Projects</NavLink></li>
-          <li className=" text-xl  "><NavLink to="/contact" >Contact</NavLink></li>
+          <li className=" choice text-2xl  "><NavLink to="/" >Home</NavLink></li>
+          {/* <li className=" choice text-2xl  "><NavLink to="/about" >About</NavLink></li> */}
+          <li className=" choice text-2xl  "><NavLink to="/project" >Projects</NavLink></li>
+          <li className=" choice text-2xl  "><NavLink to="/contact" >Contact</NavLink></li>
     
        
        </>
@@ -19,7 +20,7 @@ const Nav = () => {
                          <div>
 
 
-                 <div className=" navbar bg-base-100  shadow-md  ">
+                 <div className=" navbar bg-base-100  shadow-md p-5  ">
                    <div className="navbar-start">
                      <div className="dropdown">
                        <div tabIndex={0} role="button" className="btn btn-ghost lg:hidden">
@@ -32,7 +33,7 @@ const Nav = () => {
                      
                      <div className=" flex items-center gap-2 ">
                      <img className=" h-[25px] " src="https://i.ibb.co/Twwhq9J/coding.png" alt="" />
-                     <a className="text-2xl font-bold ">Apon.Dev</a>
+                     <a className="text-4xl the font-bold ">Apon.Dev</a>
                      </div>
                      
                    </div>
